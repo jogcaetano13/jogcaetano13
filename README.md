@@ -6,7 +6,7 @@ Mobile Developer
 
 I'm a mobile developer with over 7 years of experience in Android, and a strong background in iOS and Kotlin Multiplatform. My journey has taken me through diverse projects, from crafting native Android applications to building seamless cross-platform solutions. I’m passionate about creating impactful, high-performance mobile experiences that scale across platforms.
 
-* 🌍  I'm based in Covilhã
+* 🌍  I'm based in Portugal
 * ✉️  You can contact me at [jogcaetano13@gmail.com](mailto:jogcaetano13@gmail.com)
 * 🖥️  See my portfolio at [Website](https://joelcaetano-laravel-vercel.vercel.app)
 
