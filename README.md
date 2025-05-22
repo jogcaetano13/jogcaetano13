@@ -1,4 +1,4 @@
-Hi 👋 I’m Joel Caetano — a mobile developer passionate about Android and Kotlin Multiplatform.
+Hi 👋 I’m Joel — a mobile developer passionate about Android and Kotlin Multiplatform.
 =============================  
 
 ### About Me  
